@@ -32,6 +32,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Snap
 
+# FastCharge
+PRODUCT_PACKAGES += \
+    lineage.fastcharge@1.0-service.sm8150
+
 # HotwordEnrollement app permissions
 PRODUCT_COPY_FILES += \
     $(COMMON_PATH)/configs/com.android.hotwordenrollment.common.util.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.android.hotwordenrollment.common.util.xml \

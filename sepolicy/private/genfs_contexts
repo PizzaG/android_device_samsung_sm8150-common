@@ -1,0 +1,2 @@
+# FastCharge
+genfscon sysfs /devices/virtual/sec/switch/afc_disable     u:object_r:sysfs_fastcharge:s0

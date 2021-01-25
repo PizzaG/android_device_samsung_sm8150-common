@@ -1,5 +1,6 @@
 type sysfs_battery, sysfs_type, fs_type;
 type sysfs_camera_writable, sysfs_type, fs_type;
+type sysfs_fastcharge, sysfs_type, fs_type;
 type sysfs_sec, sysfs_type, fs_type;
 type sysfs_ss_writable, sysfs_type, fs_type;
 type vendor_sysfs_battery_supply, sysfs_type, fs_type;
